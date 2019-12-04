@@ -1,0 +1,2 @@
+# This file will be read by resetprop
+qemu.hw.mainkeys=0

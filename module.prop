@@ -1,0 +1,6 @@
+id=mido-navigation-bar
+name=Enable Mido Navbar
+version=v1
+versionCode=1
+author=AliHasan7671
+description=This module enables navigation bar and disables capacitive buttons completely on mido.
